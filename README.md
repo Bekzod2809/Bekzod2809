@@ -3,10 +3,6 @@
 ### Backend Developer · .NET Engineer · Founder of MyJurnal
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=06B6D4&center=true&vCenter=true&width=560&lines=Backend+Developer;.NET+Engineer;Founder+of+MyJurnal;Building+things+from+Uzbekistan" alt="Backend Developer, .NET Engineer, Founder of MyJurnal, Building things from Uzbekistan" />
 📍 Tashkent, Uzbekistan &nbsp; · &nbsp; 🌐 Uzbek · English (C1) · Russian (B2) · Tajik (B2)
-[![GitHub](https://img.shields.io/badge/GitHub-Bekzod2809-111827?style=for-the-badge&logo=github)](https://github.com/Bekzod2809)
-[![MyJurnal](https://img.shields.io/badge/MyJurnal-Visit%20site-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://myjurnal.uz)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-06B6D4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jurnal_support_bot)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-374151?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bekzodjonxasanov7@gmail.com)
 </div>
 
 ---
